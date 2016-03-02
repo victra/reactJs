@@ -5,7 +5,9 @@
    * mkdir myapp
    * cd myapp/
    * jitsu install http-server (langsung run)
-   * to open >>   node http-server/bin/http-server
+   * to open >>
+      * cd http-server
+      * node bin/http-server
 2. download example react [disini](facebook.github.io/react/downloads.html)
    * setelah didownload kemudian extract
    * isi folder tempatkan pada folder myapp/http-server/public
